@@ -1,0 +1,5 @@
+[.com]
+[www.sina.com]
+[www.tencent.com]
+[www.weixin.com]
+[www.alipay.com]
